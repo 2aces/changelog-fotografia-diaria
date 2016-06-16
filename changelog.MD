@@ -1,11 +1,23 @@
 # Change Log
 
-Project Name: Fotografia Diária
-Description: robô de busca, agregador e ferramentas para quem é apaixonado por fotografia autoral contemporânea, histórica e fotojornalismo.
-Version: 1.2.0
+Nome do Projeto: [Fotografia Diária](https://www.fotografiadiaria.com.br)
+Descrição: robô de busca, agregador e ferramentas para quem é apaixonado por fotografia autoral contemporânea, histórica e fotojornalismo.
+Versão: 1.2.0
+Autor: [2Aces Conteúdo e Estratégia](http://www.2aces.com.br)
 
 Todas as mudanças importantes deste projeto a partir da versão 1.1.0 estão documentadas neste arquivo.
 O projeto adere às convenções de Versionamento Semântico [Semantic Versioning](http://semver.org/)
+
+## Unreleased
+- Integração com [superlumina»](http://www.superlumina.com.br) 
+
+## 1.2.1 - 05/06/2016
+### Changed
+- Changelog em português
+
+### Fixed
+- Ajuste na versão
+- Correções no changelog
 
 ## 1.2.0 - 05/06/2016
 ### Changed
